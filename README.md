@@ -1,2 +1,2 @@
 # SQL-Projects
-A collection of SQL project I have worked on.
+SQL Final Project and Final Examination for INFO 330
